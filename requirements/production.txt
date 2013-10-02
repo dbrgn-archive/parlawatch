@@ -1,0 +1,17 @@
+# Django base system
+Django==1.5.4
+Unipath==1.0
+South==0.8.2
+
+# Databases
+psycopg2==2.5.1
+dj-database-url==0.2.2
+
+# Auth
+django-social-auth==0.7.28
+
+# Frontend
+django-messagegroups==0.4.1
+
+# Scripts
+requests==2.0.0
